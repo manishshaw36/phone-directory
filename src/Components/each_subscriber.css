@@ -1,0 +1,13 @@
+.table_body{
+    width: 80%;
+    margin: 0px auto 20px;
+}
+td button{
+    font-size: 20px;
+    border-radius: 4px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;
+    cursor: pointer;
+}

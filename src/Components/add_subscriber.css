@@ -1,0 +1,25 @@
+.add h2{
+    margin: 20px 0;
+}
+.add input{
+    font-size: 30px;
+    width: 40%;
+    padding: 10px;
+}
+.add button{
+    display: block;
+    width: 200px;
+    margin: 50px auto;
+    padding: 10px 0;
+    font-size: 28px;
+    font-weight: 800;
+    color: #ffffff;
+    background-color: lightgreen;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.textCopy{
+    width: 41%;
+    text-align: left;
+    margin: 40px auto;
+}
